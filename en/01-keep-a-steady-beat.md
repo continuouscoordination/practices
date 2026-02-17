@@ -1,6 +1,6 @@
 # 01: Keep a steady beat
 
-**Ad-hoc approaches to keeping everyone informed and aligned are brittle, time-consuming, and tedious. Replace them with automated, structured communication loops to create a steady beat that keeps everyone in tight sync without all the effort and interruptions.**
+**Ad-hoc approaches to closing the two feedback loops — planning to execution, and individuals to teams — are brittle, time-consuming, and tedious. Replace them with automated, structured communication loops to create a steady beat that keeps both loops closed without all the effort and interruptions.**
 
 ## The theory
 
@@ -21,13 +21,13 @@ The problem is, **meetings are too inefficient to keep up with the half-life of 
 
 What’s worse, meetings and other ad-hoc approaches are *brittle*. They depend on everyone doing the right thing, on their own, day in, day out. That works for small teams, but 50 people? 500? 5000? The odds aren’t in your favor. Adopting an ad-hoc approach is *actively signing up for endless process policing*.
 
-The way out? Take a page from the [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) playbook by breaking alignment work down into smaller, higher-frequency, automated async loops. Daily within teams, weekly/bi-weekly/monthly across teams.
+The way out? Take a page from the [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) playbook by breaking alignment work down into smaller, higher-frequency, automated async loops — one for each feedback loop.
 
-**Daily loops** keep individual teams in tight sync, and help individual contributors prioritize tasks, address budding issues, and coordinate action plans.
+**The individuals-to-teams loop runs daily.** This is the smaller, tighter loop. It keeps individual teams in sync, helps contributors prioritize tasks, surface budding issues, and coordinate action plans.
 
-**Weekly/bi-weekly/monthly loops** — like updates on a team or company-level goal — keep multiple teams and entire companies aligned by providing everyone summary-level insight into where things stand.
+**The planning-to-execution loop runs weekly, bi-weekly, or monthly.** Every team is working toward some container of work — a sprint, a project, a marketing campaign, a quarterly goal. This bigger loop keeps that container honest by providing everyone summary-level insight into where things stand, across teams and across the company.
 
-This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot). Everyone up and down the org has complete context day in, day out, *and* plenty of time for deep work. Even better, you have a full record of history of who’s done what and why, and nobody gets saddled with the frustrating, low-value process police job. It’s a game changer for working as a team.
+This dual loop strategy cuts the alignment trap [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot). Both feedback loops stay closed, everyone up and down the org has complete context day in, day out, *and* plenty of time for deep work. Even better, you have a full record of history of who's done what and why, and nobody gets saddled with the frustrating, low-value process police job. It's a game changer for working as a team.
 
 ## Further reading
 
