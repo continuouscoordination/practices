@@ -1,6 +1,6 @@
-# Continuous Coordination Principles
+# Continuous Coordination
 
-The documention of the principles of Continuous Coordination, a set of best of practices for modern knowledge work. [Read on ContinuousCoordination.org](https://ContinuousCoordination.org).
+The documention of the of Continuous Coordination, a method for mondern teamwork. [Read on ContinuousCoordination.org](https://ContinuousCoordination.org).
 
 - [English](./en/)
 - French
